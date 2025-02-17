@@ -1,0 +1,10 @@
+.nodata-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-post-img {
+  width: 60%;
+}

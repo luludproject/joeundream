@@ -1,0 +1,14 @@
+.search-result {
+  flex: 1;
+}
+
+.common-h2 {
+  margin: 15px 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.common-p {
+  padding: 0 20px;
+  color: #333;
+}

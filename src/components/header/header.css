@@ -1,0 +1,106 @@
+.header {
+  background-image: url("/img/universe.jpeg");
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 340px;
+}
+
+header form {
+  display: flex;
+  align-items: center;
+  border-radius: 7px;
+  background-color: #8b00ff;
+  width: 260px;
+}
+
+header h1 {
+  font-size: 35px;
+  margin: 20px 0;
+}
+
+header h1 a {
+  color: #e2e2e2;
+  transition: 0.2s all;
+}
+
+header h1 a:hover {
+  color: #fff;
+}
+
+header input {
+  outline: none;
+  font-size: 17px;
+  padding: 5px 10px;
+  border: none;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  flex: 3;
+}
+
+header button {
+  color: #e2e2e2;
+  padding: 5px;
+  cursor: pointer;
+  transition: 0.2s all;
+  flex: 1;
+  font-size: 20px;
+  border: none;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  background: #8b00ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header button:hover {
+  color: #fff;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.second-ul {
+  margin: 0;
+}
+
+header ul a {
+  color: #e2e2e2;
+  font-size: 17px;
+  font-weight: 500;
+  transition: 0.2s all;
+}
+
+header ul li {
+  border-right: 1px solid #e2e2e2;
+  padding: 0 20px;
+  margin: 10px 0;
+}
+
+header ul li:last-child {
+  border-right: none;
+}
+
+header ul a:hover {
+  color: #fff;
+}
+
+.tarot {
+  position: absolute;
+  top: 2%;
+  right: 11%;
+  color: #e86e99;
+  font-size: 18px;
+  font-weight: 800;
+}
+.tarot:hover {
+  color: #d0829d;
+}
