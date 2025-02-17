@@ -60,7 +60,7 @@ const AnimalDetail = () => {
           property="og:description"
           content="동물꿈해몽, 반려동물 꿈, 애완동물 꿈, 죽은 동물 꿈, 야생동물 꿈, 죽은 반려동물 꿈, 동물 나오는 꿈, 동물에게 쫓기는 꿈, 동물 죽이는 꿈, 반려동물 죽는 꿈, 동물한테 물리는 꿈, 동물이 죽는 꿈, 동물시체 꿈, 동물에게 물리는 꿈, 동물 죽는 꿈, 동물이 나오는 꿈, 동물을 죽이는 꿈, 반려동물이 죽는 꿈, 동물 키우는 꿈, 동물한테 쫓기는 꿈, 동물 사체 꿈, 반려동물 다치는 꿈, 동물 꿈해몽, 동물 꿈풀이, 재물이 들어오는 동물꿈, 흰색 동물 꿈, 동물로또번호로또 꿈, 동물꿈해몽 무료 풀이, 동물 흰동물 꿈해몽, 동물 모양 죽이는 꿈해몽, 죽은 동물 꿈해몽, 동물 시체 꿈해몽, 동물 꿈 로또 꿈해몽, 집안 동물 꿈"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -70,7 +70,7 @@ const AnimalDetail = () => {
           name="twitter:description"
           content="동물꿈해몽, 반려동물 꿈, 애완동물 꿈, 죽은 동물 꿈, 야생동물 꿈, 죽은 반려동물 꿈, 동물 나오는 꿈, 동물에게 쫓기는 꿈, 동물 죽이는 꿈, 반려동물 죽는 꿈, 동물한테 물리는 꿈, 동물이 죽는 꿈, 동물시체 꿈, 동물에게 물리는 꿈, 동물 죽는 꿈, 동물이 나오는 꿈, 동물을 죽이는 꿈, 반려동물이 죽는 꿈, 동물 키우는 꿈, 동물한테 쫓기는 꿈, 동물 사체 꿈, 반려동물 다치는 꿈, 동물 꿈해몽, 동물 꿈풀이, 재물이 들어오는 동물꿈, 흰색 동물 꿈, 동물로또번호로또 꿈, 동물꿈해몽 무료 풀이, 동물 흰동물 꿈해몽, 동물 모양 죽이는 꿈해몽, 죽은 동물 꿈해몽, 동물 시체 꿈해몽, 동물 꿈 로또 꿈해몽, 집안 동물 꿈"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <main>
         <section>

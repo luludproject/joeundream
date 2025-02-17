@@ -45,7 +45,7 @@ const body = () => {
           property="og:description"
           content="몸 꿈, 머리 꿈, 손 꿈, 피 꿈, 배 꿈, 얼굴 꿈, 눈 꿈, 목 꿈, 성기 꿈, 모습 꿈, 입 꿈, 알몸 꿈, 털 꿈, 대변 꿈, 귀 꿈, 코 꿈, 머리카락 꿈, 가슴 꿈, 수염 꿈, 발 꿈, 소변 꿈, 손가락 꿈, 어깨 꿈, 혀 꿈, 팔 꿈"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -55,12 +55,12 @@ const body = () => {
           name="twitter:description"
           content="몸 꿈, 머리 꿈, 손 꿈, 피 꿈, 배 꿈, 얼굴 꿈, 눈 꿈, 목 꿈, 성기 꿈, 모습 꿈, 입 꿈, 알몸 꿈, 털 꿈, 대변 꿈, 귀 꿈, 코 꿈, 머리카락 꿈, 가슴 꿈, 수염 꿈, 발 꿈, 소변 꿈, 손가락 꿈, 어깨 꿈, 혀 꿈, 팔 꿈"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <main>
         <section className="human">
           <article>
-            <Ads />
+            {/* <Ads /> */}
 
             <h2>신체/몸 꿈해몽</h2>
             <ul className="common-ul">

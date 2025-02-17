@@ -83,7 +83,7 @@ a {
 }
 
 .first-area ul li a {
-  background-color: #8b00ff;
+  background-color: #2b74bb;
   padding: 10px 20px;
   border-radius: 5px;
   color: #fff;
@@ -100,7 +100,7 @@ a {
 }
 
 .first-area ul li a:hover {
-  background-color: #a12eff;
+  background-color: #2b74bb;
 }
 
 .intro {

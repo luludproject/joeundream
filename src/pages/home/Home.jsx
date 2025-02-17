@@ -11,12 +11,9 @@ const Main = () => {
       <main>
         <div className="container">
           <section className="first-area">
-            <Ads />
+            {/* <Ads /> */}
 
-            <h2 className="main_title">
-              무료 꿈해몽 풀이&nbsp;
-              <FaRegPenToSquare />
-            </h2>
+            <h2 className="main_title">무료꿈해몽풀이</h2>
             <ul>
               <li>
                 <Link to={`/animal`}>동물</Link>
@@ -40,13 +37,10 @@ const Main = () => {
           </section>
 
           <section className="intro">
-            <h2>
-              꿈해몽이란 무엇인가? 🌙✨
-              <ImWondering />
-            </h2>
+            <h2>꿈해몽이란 무엇인가? 🌙✨</h2>
             <p>
-              <Link to={`/`}>꿈해몽</Link>이란 꿈을 해석하여 그 의미를 찾는 것을{" "}
-              <br />
+              <Link to={`https://joeundream.com`}>꿈해몽</Link>이란 꿈을
+              해석하여 그 의미를 찾는 것을 <br />
               말합니다. 꿈은 우리의 무의식에서 비롯된 심리적 현상으로,
               <br />
               때로는 현실과 깊은 연관이 있기도 합니다.

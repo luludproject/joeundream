@@ -33,7 +33,7 @@ const Header = () => {
           타로카드 뽑기🃏
         </Link>
         <h1>
-          <Link to={`/`}>무료 꿈해몽</Link>
+          <Link to={`/`}>무료꿈해몽풀이 조은드림</Link>
         </h1>
         <form onSubmit={handleSearch}>
           <input

@@ -58,7 +58,7 @@ const PlantList = () => {
           property="og:description"
           content="화분 꿈, 식물 꿈해몽, 초록색 식물 꿈, 초록 식물 꿈해몽, 식물 심는 꿈해몽, 식물 뿌리 꿈해몽, 꽃 꿈해몽, 장미꽃 꿈, 노란꽃 꿈, 국화꽃 꿈, 보라색 꽃 꿈, 하얀꽃 꿈, 매화꽃 꿈, 유채꽃 꿈, 꽃 받는 꿈, 꽃 선물 받는 꿈, 꽃 사는 꿈, 꽃이 피는 꿈, 꽃 보는 꿈, 꽃을 보는 꿈, 꿈 꽃 어린이집, 꽃을 받는 꿈, 꽃 심는 꿈, 꽃 화분 꿈, 꿈 꽃 유치원, 꽃이 만개한 꿈, 마리나 꿈, 벚꽃 꿈, 꽃다발 꿈, 꽃 태몽, 꽃나무 꿈, 꽃 꿈, 꽃 꿈풀이, 방안의 꽃 꿈, 태몽 꽃 꿈"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -68,7 +68,7 @@ const PlantList = () => {
           name="twitter:description"
           content="화분 꿈, 식물 꿈해몽, 초록색 식물 꿈, 초록 식물 꿈해몽, 식물 심는 꿈해몽, 식물 뿌리 꿈해몽, 꽃 꿈해몽, 장미꽃 꿈, 노란꽃 꿈, 국화꽃 꿈, 보라색 꽃 꿈, 하얀꽃 꿈, 매화꽃 꿈, 유채꽃 꿈, 꽃 받는 꿈, 꽃 선물 받는 꿈, 꽃 사는 꿈, 꽃이 피는 꿈, 꽃 보는 꿈, 꽃을 보는 꿈, 꿈 꽃 어린이집, 꽃을 받는 꿈, 꽃 심는 꿈, 꽃 화분 꿈, 꿈 꽃 유치원, 꽃이 만개한 꿈, 마리나 꿈, 벚꽃 꿈, 꽃다발 꿈, 꽃 태몽, 꽃나무 꿈, 꽃 꿈, 꽃 꿈풀이, 방안의 꽃 꿈, 태몽 꽃 꿈"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <div className="post-wrapper">
         {currentRamens.length > 0 ? (

@@ -75,7 +75,6 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/*" element={<NotFound />} />
-          <Route path="/posts" element={<Post />} />
           <Route path="/person" element={<Person />} />
           <Route path="/body" element={<Body />} />
           <Route path="/animal" element={<Animal />} />

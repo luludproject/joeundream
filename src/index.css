@@ -53,7 +53,7 @@ li {
 }
 
 .common-li {
-  background-color: #8b00ff;
+  background-color: #2b74bb;
   padding: 10px 5px;
   width: 80%;
   border-radius: 5px;
@@ -70,12 +70,12 @@ li {
 }
 
 .common-li:hover {
-  background-color: #b04fff;
+  background-color: #2b74bb;
 }
 
 .common-h2 {
   padding-top: 20px;
-  color: rgb(237, 157, 100) !important;
+  color: #2b74bb !important;
   cursor: pointer;
 }
 
@@ -94,13 +94,13 @@ li {
 
 .common-h2-detail {
   padding: 0 20px;
-  color: rgb(237, 157, 100) !important;
+  color: #2b74bb !important;
   margin-top: 30px;
 }
 
 .common-h2-detail2 {
   padding: 0 20px;
-  color: rgb(237, 157, 100) !important;
+  color: #2b74bb !important;
   margin-top: 100px;
 }
 

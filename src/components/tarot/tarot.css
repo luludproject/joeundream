@@ -55,7 +55,7 @@
 }
 
 .tarot-result h2 {
-  color: #e86e99;
+  color: #2b74bb;
 }
 
 .tarot-result p {
@@ -67,14 +67,14 @@
   margin: 30px 0 0;
   font-size: 17px;
   padding: 10px 15px;
-  background-color: #8b00ff;
+  background-color: #2b74bb;
   color: #fff;
   border-radius: 7px;
   cursor: pointer;
 }
 
 .tarot-result button:hover {
-  background-color: #a645f7;
+  background-color: #2b74bb;
 }
 
 @media screen and (max-width: 820px) {

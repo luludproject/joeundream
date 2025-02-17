@@ -58,7 +58,7 @@ const EtcList = () => {
           property="og:description"
           content="전쟁꿈, 숫자꿈, 로또번호꿈, 복권꿈, 예지몽, 교육꿈, 통장꿈, 돈꿈, 쫓기는꿈, 도망꿈, 길몽, 흉몽, 돼지꿈 등 기타 꿈해몽"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -68,7 +68,7 @@ const EtcList = () => {
           name="twitter:description"
           content="전쟁꿈, 숫자꿈, 로또번호꿈, 복권꿈, 예지몽, 교육꿈, 통장꿈, 돈꿈, 쫓기는꿈, 도망꿈, 길몽, 흉몽, 돼지꿈 등 기타 꿈해몽"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <div className="post-wrapper">
         {currentRamens.length > 0 ? (

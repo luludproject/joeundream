@@ -1,5 +1,7 @@
 .header {
-  background-image: url("/img/universe.jpeg");
+  background-image: url("/img/universe.png");
+  background-position: top;
+  background-size: cover;
 }
 
 header {
@@ -14,7 +16,7 @@ header form {
   display: flex;
   align-items: center;
   border-radius: 7px;
-  background-color: #8b00ff;
+  background-color: #2b74bb;
   width: 260px;
 }
 
@@ -52,7 +54,7 @@ header button {
   border: none;
   border-top-right-radius: 7px;
   border-bottom-right-radius: 7px;
-  background: #8b00ff;
+  background: #2b74bb;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -97,10 +99,10 @@ header ul a:hover {
   position: absolute;
   top: 2%;
   right: 11%;
-  color: #e86e99;
+  color: #2b74bb;
   font-size: 18px;
   font-weight: 800;
 }
 .tarot:hover {
-  color: #d0829d;
+  color: #2b74bb;
 }

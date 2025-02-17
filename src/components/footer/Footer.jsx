@@ -6,12 +6,12 @@ const Footer = () => {
     <footer>
       <p>
         Copyright &copy; 2024 by{" "}
-        <a
+        {/* <a
           href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=luludproject@gmail.com"
           target="_blank"
-        >
-          조은드림
-        </a>
+        > */}
+        조은드림
+        {/* </a> */}
       </p>
     </footer>
   );

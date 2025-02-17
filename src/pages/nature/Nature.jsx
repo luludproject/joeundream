@@ -42,7 +42,7 @@ const Nature = () => {
           property="og:description"
           content="자연꿈, 산꿈, 하늘꿈, 바다꿈, 나무꿈, 강꿈, 풍경꿈, 동산꿈, 폭포꿈, 해변꿈, 섬꿈, 하늘꿈, 별꿈, 무지개꿈, 꽃밭꿈, 숲꿈, 해꿈, 바람꿈, 구름꿈, 땅꿈, 풀숲꿈"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -52,12 +52,12 @@ const Nature = () => {
           name="twitter:description"
           content="자연꿈, 산꿈, 하늘꿈, 바다꿈, 나무꿈, 강꿈, 풍경꿈, 동산꿈, 폭포꿈, 해변꿈, 섬꿈, 하늘꿈, 별꿈, 무지개꿈, 꽃밭꿈, 숲꿈, 해꿈, 바람꿈, 구름꿈, 땅꿈, 풀숲꿈"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <main>
         <section className="human">
           <article>
-            <Ads />
+            {/* <Ads /> */}
 
             <h2>자연 꿈해몽</h2>
             <ul className="common-ul">

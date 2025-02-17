@@ -45,7 +45,7 @@ const Action = () => {
           property="og:description"
           content="행동꿈, 웃는꿈, 기뻐하는꿈, 성관계꿈, 싸우는꿈, 공포꿈, 두려움꿈, 즐거움꿈, 감동하는 꿈, 섹스하는꿈, 때리는 꿈, 맞는꿈, 호통치는 꿈, 소리지르는 꿈"
         />
-        <meta property="og:image" content="./src/assets/ogimg.png" />
+        <meta property="og:image" content="./img/ogimg.png" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
@@ -55,12 +55,12 @@ const Action = () => {
           name="twitter:description"
           content="행동꿈, 웃는꿈, 기뻐하는꿈, 성관계꿈, 싸우는꿈, 공포꿈, 두려움꿈, 즐거움꿈, 감동하는 꿈, 섹스하는꿈, 때리는 꿈, 맞는꿈, 호통치는 꿈, 소리지르는 꿈"
         />
-        <meta name="twitter:image" content="./src/assets/ogimg.png" />
+        <meta name="twitter:image" content="./img/ogimg.png" />
       </Helmet>
       <main>
         <section className="human">
           <article>
-            <Ads />
+            {/* <Ads /> */}
 
             <h2>행동 꿈해몽</h2>
             <ul className="common-ul">
