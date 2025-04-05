@@ -85,7 +85,45 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className="font-sans">{children}</body>
+      <head>
+        <meta
+          name="naver-site-verification"
+          content="d89dfab68636aba53b20ae4dea88a0558bed2660"
+        />
+        <meta
+          name="google-site-verification"
+          content="OPxfuUutjFgq7BCQjOMmelgCFMTo1kEPa7v6xHU0rCc"
+        />
+      </head>
+      <body className="font-sans">
+        {children}
+
+        <script type="text/javascript">
+          var sc_project=13112529; var sc_invisible=1; var
+          sc_security="71d34e9d";
+        </script>
+        <script
+          type="text/javascript"
+          src="https://www.statcounter.com/counter/counter.js"
+          async
+        ></script>
+        <noscript>
+          <div className="statcounter">
+            <a
+              title="Web Analytics"
+              href="https://statcounter.com/"
+              target="_blank"
+            >
+              <img
+                className="statcounter"
+                src="https://c.statcounter.com/13112529/0/71d34e9d/1/"
+                alt="Web Analytics"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </a>
+          </div>
+        </noscript>
+      </body>
     </html>
   );
 }
