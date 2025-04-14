@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title:
-    "AI사주선생 | 무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세",
+    "무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세 - AI사주선생",
   description:
     "AI가 알려주는 정확한 오늘의 운세! 띠별 운세, 사주 풀이까지 모두 무료로 제공하는 AI사주선생에서 올해의 운명을 확인해보세요 🔮",
   keywords: [
@@ -50,7 +50,7 @@ export const metadata = {
   },
   openGraph: {
     title:
-      "AI사주선생 | 무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세",
+      "무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세 - AI사주선생",
     description:
       "AI가 알려주는 정확한 오늘의 운세! 띠별 운세, 사주 풀이까지 모두 무료로 제공하는 AI사주선생에서 올해의 운명을 확인해보세요 🔮",
     url: "https://joeundream.com",
@@ -69,7 +69,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "AI사주선생 | 무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세",
+      "무료운세보기, 무료사주보기, 무료운세사이트, 오늘의운세, 오늘에띠운세 - AI사주선생",
     description:
       "AI가 알려주는 정확한 오늘의 운세! 띠별 운세, 사주 풀이까지 모두 무료로 제공하는 AI사주선생에서 올해의 운명을 확인해보세요 🔮",
     images: ["https://joeundream.com/graph.png"],

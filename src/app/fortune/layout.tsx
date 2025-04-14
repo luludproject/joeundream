@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "2025 띠별 운세, 오늘의 띠운세 무료보기 | AI사주선생",
+  title: "2025 띠별 운세, 오늘의 띠운세 무료보기 - AI사주선생",
   description:
     "오늘 나의 띠는 어떤 운명을 가질까? 2025년 띠별 오늘의 운세를 AI가 무료로 알려드려요! 정통 명리학 기반으로 만든 정확한 띠별 운세 ✨",
   keywords: [
@@ -46,7 +46,7 @@ export const metadata = {
     },
   },
   openGraph: {
-    title: "2025 띠별 운세, 오늘의 띠운세 무료보기 | AI사주선생",
+    title: "2025 띠별 운세, 오늘의 띠운세 무료보기 - AI사주선생",
     description:
       "오늘 나의 띠는 어떤 운명을 가질까? 2025년 띠별 오늘의 운세를 AI가 무료로 알려드려요! 정통 명리학 기반으로 만든 정확한 띠별 운세 ✨",
     url: "https://joeundream.com/fortune",
@@ -64,7 +64,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "2025 띠별 운세, 오늘의 띠운세 무료보기 | AI사주선생",
+    title: "2025 띠별 운세, 오늘의 띠운세 무료보기 - AI사주선생",
     description:
       "오늘 나의 띠는 어떤 운명을 가질까? 2025년 띠별 오늘의 운세를 AI가 무료로 알려드려요! 정통 명리학 기반으로 만든 정확한 띠별 운세 ✨",
     images: ["https://joeundream.com/graph.png"],

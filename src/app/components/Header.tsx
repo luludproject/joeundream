@@ -30,7 +30,7 @@ const Header = () => {
           <Link href="/saju" className="hover:text-yellow-400">
             사주 운세
           </Link>
-          <Link href="/#" className="hover:text-yellow-400">
+          {/* <Link href="/#" className="hover:text-yellow-400">
             궁합보기<span className="text-red-500"> (준비중)</span>
           </Link>
           <button
@@ -38,7 +38,7 @@ const Header = () => {
             className="text-sm bg-pink-100 text-pink-700 px-3 py-1 rounded-full hover:bg-pink-200 transition"
           >
             후원하기 💝
-          </button>
+          </button> */}
         </nav>
 
         {/* 모바일용 햄버거 아이콘 */}
@@ -73,14 +73,14 @@ const Header = () => {
           >
             사주 운세
           </Link>
-          <Link
+          {/* <Link
             href="/#"
             className="block text-white hover:text-yellow-400"
             onClick={() => setMenuOpen(false)}
           >
             궁합보기<span className="text-red-400"> (준비중)</span>
-          </Link>
-          <button
+          </Link> */}
+          {/* <button
             onClick={() => {
               setMenuOpen(false);
               setShowDonate(true);
@@ -88,7 +88,7 @@ const Header = () => {
             className="block w-full text-left text-pink-200 hover:text-pink-400"
           >
             후원하기 💝
-          </button>
+          </button> */}
         </div>
       )}
 

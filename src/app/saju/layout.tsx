@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "무료 사주 운세, 사주팔자 풀이 | AI사주선생",
+  title: "무료 사주 운세, 사주팔자 풀이 - AI사주선생",
   description:
     "무료 사주풀이, 인생운세, 오늘의 사주까지! AI사주선생에서 쉽게 확인하는 나만의 사주 운세 🔮",
   keywords: [
@@ -46,7 +46,7 @@ export const metadata = {
     },
   },
   openGraph: {
-    title: "무료 사주 운세, 사주팔자 풀이 | AI사주선생",
+    title: "무료 사주 운세, 사주팔자 풀이 - AI사주선생",
     description:
       "무료 사주풀이, 인생운세, 오늘의 사주까지! AI사주선생에서 쉽게 확인하는 나만의 사주 운세 🔮",
     url: "https://joeundream.com/fortune",
@@ -64,7 +64,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "무료 사주 운세, 사주팔자 풀이 | AI사주선생",
+    title: "무료 사주 운세, 사주팔자 풀이 - AI사주선생",
     description:
       "무료 사주풀이, 인생운세, 오늘의 사주까지! AI사주선생에서 쉽게 확인하는 나만의 사주 운세 🔮",
     images: ["https://joeundream.com/graph.png"],
