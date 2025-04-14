@@ -5,11 +5,7 @@ import { zodiacInfo } from "@/app/lib/zodiacData";
 import { zodiacMeta } from "@/app/lib/zodiacMeta";
 import ZodiacClient from "./ZodiacClient"; // 👈 클라이언트 컴포넌트 import
 
-type Props = {
-  params: { zodiac: string };
-};
-
-export function generateMetadata({ params }: Props): Metadata {
+export function generateMetadata({ params }: any): Metadata {
   const zodiac = decodeURIComponent(params.zodiac);
   const meta = zodiacMeta[zodiac];
   if (!meta) return notFound();
@@ -21,7 +17,7 @@ export function generateMetadata({ params }: Props): Metadata {
   };
 }
 
-export default function ZodiacPage({ params }: Props) {
+export default function ZodiacPage({ params }: any) {
   const decodedZodiac = decodeURIComponent(params.zodiac);
   const content = zodiacInfo[decodedZodiac];
   if (!content) return notFound();
