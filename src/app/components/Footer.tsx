@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-indigo-950 text-indigo-300 text-sm py-6 mt-12">
       <div className="max-w-6xl mx-auto text-center">
-        <p>© 2025 문의: chlalstn4444@naver.com 🧙‍♀️</p>
+        <p>© 2025 AI사주선생 🧙‍♀️</p>
 
         <div className="flex justify-center space-x-6 mt-2">
           <a href="/" className="hover:underline">
